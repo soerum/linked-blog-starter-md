@@ -48,3 +48,26 @@
 	- ==Job enrichment== aims to add more rewarding and stimulating work into a particular job. 
 		- ==Horizontal loading== applies to the final two, and is an expansion of the number of tasks someone is responsible of completing. 
 		- ==Vertical loading== are when jobs are changed to give workers more authority and responsibility. Often about shifting responsibilities from managers to workers. 
+			- Try to load positions based on human needs and motivation of a specific employee rather than organisational goals. Known as the ==human method==. 
+		- ==Five dimensions of worker motivation==
+			- Skill variety 
+				- Describes whether the skills are routine or ever changing
+			- Task identity 
+				- Related to worker involvement. Is it from start to finish or just a certain part?
+			- Task significance
+				- Importance of the duty to organisational success or societal success.
+			- Autonomy
+				- Related to the employee's freedom to vary output.
+			- Feedback
+				- Opinions on how the employee is doing from managers or supervisors.
+		- ==Job redesign best practices==
+			- Reconcile differences between the job description and the actual work being done. 
+			- Reassign duties to workers with more abilities or motivation. 
+			- Offer training for the newly assigned responsibilities.
+			- Revise job description and revisit regularly. 
+- **Approaches to Job Design**
+	- ==Mechanistic approach== is based on classic industrial engineering concepts and shares some common themes with operations research. The focus remains on evaluating a specific job’s simple, repetitive tasks and is most applicable to jobs involving assembly.
+	- ==Motivational approach== emphasizes that workers are more satisfied with their jobs if they feel a sense of control, can use their skills, and understand the results of their work. If used correctly, this approach will increase worker satisfaction.
+	- ==Biological approach ==is rooted in ergonomics, the study of how workers use machines and equipment for maximum performance. This approach works best for physically demanding jobs.
+	- ==Perceptual-motor approach== emphasizes the mental demands of a particular job and identifies the attention span and memory required to perform the job successfully
+	- ==Relational approach== evaluates a specific job stage or site. It focuses on the position of  job tasks, within a process, and the relationships of workers to each other and the end-user.
