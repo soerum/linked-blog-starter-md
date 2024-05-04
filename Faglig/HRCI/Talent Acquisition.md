@@ -1,4 +1,4 @@
-**Forecasting Workforce Needs**
+**Forecasting and Evaluating Workforce Needs**
 - One of the most important skills for a HR professional. How do we identify that need?
 	- ==Unit demand== is to understand the volume of business activity as well as how many people are needed to carry out that activity. 
 	- ==Trend projections== is to predict future needs based on expectations of how particular employment-related factors may change over time.
@@ -24,4 +24,27 @@
 	- ==Gig work== is temporary and flexible, such as Uber and Foodora. The difference between independent contractors and gig workers are still being established, but is related to the level of employer's control, worker's investment, whether it's a temporary or a permanent relationship and the integration of employee's services into the employer's business. 
 	- ==Temporary workers== are short-term employees typically hired from a staffing agency. Can be beneficial to avoid a long hiring process, provide flexible options for the employee, to test out possible permanent hires.
 		- ![[Pasted image 20240504132256.png|500]]
-		- In the U.S., the contract must include job start date, job classification rate of pay, 
+		- In the U.S., the contract must include job start date, job classification rate of pay and number of employees needed. It's important to use good temporary hiring agencies, as these provide for most of training, pay, et cetera. Compensation take form in one out of three ways:
+			1. If working for a temporary agency, the agency is solely responsible for paying the employee.
+			2. Temporary workers and independent contractors not employed by agencies are considered self-employed, and receive 1099 tax forms. Organisation not responsible of withholding taxes.
+			3. A short-term employee can also be paid through the organisation's payroll system and use W-2. 
+	- ==Nonexempt employees== must be paid the federal minimum wage and overtime pay when applicable. Often related to workers paid by the hour. 
+	- ==Exempt employees== are exempt from certain provisions of the FLSA, including minimum wage and overtime provisions. 
+		- Exemption factors include a salary higher than $684 per week, be salaried and not paid on an hourly basis and perform certain exempt duties as part of his or her job, the most common of these being ==white-collar exemptions==, which are employees whose duties are considered administrative, executive or professional, where the last include doctors, teachers, lawyers and so on. 
+	- ==Flexible work arrangements== is work arrangements such as ==remote work==, where the employee is not expected to come into the office. 
+		- Advantages of remote work are less commute time, environmental benefits, increased talent pool, increased productivity, health benefits through predictable diet and exercise, higher employee retention and other kinds of cost cutting.
+		- Disadvantages include limited interaction, distractions, concerns regarding professional advancement due to not being on site.
+		- ==Telecommuting== is working from home through the use of internet, email and phone calls.
+		- ==Flex time== is giving the employee more control over what time they work. 
+		- ==Compressed work== is allowing an employee for example to work more hours during a specific period of time to get time off later, such as working nine hour days and getting every other Friday off. 
+		- ==Job sharing== is splitting a full time job between two or more people. 
+		- ==Phased retirement== is to slowly reduce working hours for someone nearing retirement. 
+
+**Job Design and Legislation**
+- ==Job design== and job redesign is about identifying the duties, tasks and responsibilities of a job that is needed to increase productivity. Job redesigning is reassessing a job that has already undergone job design and that needs adjustment to make sure morale and motivation remain high. 
+- **Tools:**
+	- ==Job simplification== takes away a duty from one position and gives it to another. Also known as job specialisation.,
+	- ==Job enlargement== increases the variety of a job to make it more meaningful.
+	- ==Job enrichment== aims to add more rewarding and stimulating work into a particular job. 
+		- ==Horizontal loading== applies to the final two, and is an expansion of the number of tasks someone is responsible of completing. 
+		- ==Vertical loading== are when jobs are changed to give workers more authority and responsibility. Often about shifting responsibilities from managers to workers. 
