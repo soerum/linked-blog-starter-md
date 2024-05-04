@@ -1,3 +1,27 @@
 **Forecasting Workforce Needs**
 - One of the most important skills for a HR professional. How do we identify that need?
-	- **Unit demand** 
+	- ==Unit demand== is to understand the volume of business activity as well as how many people are needed to carry out that activity. 
+	- ==Trend projections== is to predict future needs based on expectations of how particular employment-related factors may change over time.
+	- ==Probabilistic models== are models that predict future conditions using super computers
+	- ==Workload analysis== determines the output or productivity the organisation expects to achieve in the immediate future. Then, employment needs are calculated in reverse.
+		- Done in three steps. Analyse the type of work, translate that into hours and then into employment needs.
+	- ==Ratio analysis== examines historical information about the workforce pertaining to a particular facet of the organisation. 
+	- ==Delphi technique== forecasts future job needs by combining the input and expertise of many professional who never meet, but who come to a consensus over time. 
+		- %%Må utdype denne%%
+	- ==Nominal Group Technique== uses a panel of experts in a structured meeting to find a solution to a problem. 
+	- **Forecasting Tools:**
+		- ==Job bidding== is expressing interest in a position in an organisation before that position is actually available to be filled. Good for hiring internally and being able to train someone for a position before it actually opens. 
+		- ==Succession planning== is identifying promising employees who have the potential to occupy managerial or executive roles in an organisation and then giving them the training they need before the position opens.
+		- ==Career pathing== is helping employees map out their long-term professional lives by identifying the career steps they need to take to achieve their career goals. 
+		- ==Dual career ladders== is identifying a career path that is rich in expertise and cross-training. Employees master two traditionally disparate roles, and then move on to the next phase. Useful for promising employees that have no interest in managerial positions, and especially relevant to technical fields. 
+		- ==Replacement charting== is charting employees as either, ready for promotion, to be developed for future promotion or satisfactory in the current position or to be replaced. 
+		- ==Turnover forecasting== is forecasting how many will leave the organisation and need to be replaced. Information can be gathered through exit interviews, post-exit surveys, focus groups and predictive surveys. 
+	- **Outsourcing and offshoring:**
+		- ==Outsourcing== is a common practice that relies on paying a third-party business to perform a specific function that does not align with the main company's ideals. Often applied to labor-intensive work such as customer service, technical support and computer programming.
+		- ==Offshoring== is where a company establishes a foreign subsidiary and transitions from higher-paid American employees to lower-paid foreign employees. Hotly debated practice.
+	- ==Independent contractors== are individuals who contract to do specific work for other people or organisations and are not considered employees. Important to know the different rules regarding compensation.
+		- The U.S. has the 20 Factor IRS Test and DOL 7 Factors to identify independent contractors. Understanding the difference and similarities between these two tests is important. 
+	- ==Gig work== is temporary and flexible, such as Uber and Foodora. The difference between independent contractors and gig workers are still being established, but is related to the level of employer's control, worker's investment, whether it's a temporary or a permanent relationship and the integration of employee's services into the employer's business. 
+	- ==Temporary workers== are short-term employees typically hired from a staffing agency. Can be beneficial to avoid a long hiring process, provide flexible options for the employee, to test out possible permanent hires.
+		- ![[Pasted image 20240504132256.png|500]]
+		- In the U.S., the contract must include job start date, job classification rate of pay, 
