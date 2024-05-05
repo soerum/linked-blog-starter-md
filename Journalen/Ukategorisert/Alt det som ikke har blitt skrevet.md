@@ -1,0 +1,3 @@
+**Kjøkøy, 05.05.2024**.
+
+Det å skrive er sjeldent en fristende aktivitet. Det er så mange andre steder oppmerksomheten min heller vil, så mange sanser å fortape seg i som gjør at jeg kan forsvinne inn under en dyne av behag. Det er nok dette behaget som skaper en indre aversjon mot å sette meg ned for å se hva som dukker opp. Når jeg skriver eksisterer det ikke noe behag å gjemme meg bak. Selv dagdrømming, mitt siste forsvar mot å være tilstede, må gi tapt i jakten på å finne ut av hvilket ord som skal være det neste. 
