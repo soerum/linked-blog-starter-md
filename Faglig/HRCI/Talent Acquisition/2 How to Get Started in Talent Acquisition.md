@@ -14,8 +14,16 @@
 1. ==Sourcing==
 	- Identifying candidates who are qualified to do a job by using proactive recruiting techniques. 
 2. ==Recruitment==
-	- The process of attracting, screening and hiring qualified people for a job.
-3. ==Screening==
+	- The process of attracting, screening and hiring qualified people for a job. There are several strategies, such as internal vs. external recruitment, executive search firms. It also common to use tools to track applicants depending on the size of the company. 
+	- Important to avoid biases such as nepotism. 
+	- Good employer branding is necessary to attract a lot of applicants. 
+	- Inclusive recruitment strategies:
+		- Pre-employment assessments that tests the employments fit into the department
+		- Blind resumes hides specific information 
+		- Employee resource group gather employees with similar background or demographic such as gender or ethnicity
+		- Uniform Guidelines on Employee Selection Procedures (UGESP)
+			- The Uniform Guidelines on employee Selection Procedures (UGESP) require that all employment tests that are given be both reliable and valid. This includes adjusting tests for those who need specific accommodations.
+1. ==Screening==
 	- Identify the best candidates by comparing candidate backgrounds with job competencies in job description.
-4. ==Selection==
+2. ==Selection==
 	- The method for choosing the best candidate for the job
