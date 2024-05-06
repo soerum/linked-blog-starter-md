@@ -11,7 +11,7 @@
 	- ==Nominal Group Technique== uses a panel of experts in a structured meeting to find a solution to a problem. 
 	- **Forecasting Tools:**
 		- ==Job bidding== is expressing interest in a position in an organisation before that position is actually available to be filled. Good for hiring internally and being able to train someone for a position before it actually opens. 
-		- ==Succession planning== is identifying promising employees who have the potential to occupy managerial or executive roles in an organisation and then giving them the training they need before the position opens.
+		- ==Succession planning== is identifying promising employees who have the potential to occupy managerial or executive roles in an organisation and then giving them the training they need before the position opens. Usually considered 1-5 years.
 		- ==Career pathing== is helping employees map out their long-term professional lives by identifying the career steps they need to take to achieve their career goals. 
 		- ==Dual career ladders== is identifying a career path that is rich in expertise and cross-training. Employees master two traditionally disparate roles, and then move on to the next phase. Useful for promising employees that have no interest in managerial positions, and especially relevant to technical fields. 
 		- ==Replacement charting== is charting employees as either, ready for promotion, to be developed for future promotion or satisfactory in the current position or to be replaced. 
