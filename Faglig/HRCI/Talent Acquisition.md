@@ -71,3 +71,24 @@
 	- ==Biological approach ==is rooted in ergonomics, the study of how workers use machines and equipment for maximum performance. This approach works best for physically demanding jobs.
 	- ==Perceptual-motor approach== emphasizes the mental demands of a particular job and identifies the attention span and memory required to perform the job successfully
 	- ==Relational approach== evaluates a specific job stage or site. It focuses on the position of  job tasks, within a process, and the relationships of workers to each other and the end-user.
+- **Legal Issues in Job Design**
+	- Usually in regard to equal employment opportunity, which is aimed to protect employees and potential employees against discriminatory behavior.
+		- Title VII of the Civil Rights Act is discrimination in general
+		- Age Discrimination in Employment Act
+		- Americans with Disabilities Act
+		- Pregnancy Discrimination Act
+	- Federal laws:
+		- ==Fair Labor Standards Act ==says that you must inform whether a job will involve overtime or not and if the job will pay the minimum legal wage. 
+		- ==Equal Pay Act ==
+	- Benefits:
+		- ==Social Security and and the Medicare Act== says that all employers must report and match payments for social security and medicare. 
+		- ==Employee Retirement Income and Security Act== details rules regarding retirement. 
+		- ==Family and Medical Leave Act== specifies 12 weeks of leave for family and medical reasons. 
+	- Health Insurance:
+		- Consolidated Omnibus Budget Reconciliation Act allows terminated employees to maintain coverage while searching for a new job. 
+		- Health Insurance Portability and Accountability Act says that you must be able to transfer your health care from an old company to a new. 
+	- Safety:
+		- Occupational Health and Safety Act outlines workplace safety and health rules and regulations.
+		- Fair Claims Act if a work environment is legally unsafe, whistleblower protection may be given. 
+		- National Labor Relations Board.
+	- Bare i Montana er det ikke lov å si opp noen uten god grunn.
