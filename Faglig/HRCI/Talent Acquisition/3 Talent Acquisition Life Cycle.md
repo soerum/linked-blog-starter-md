@@ -7,4 +7,29 @@
 	- ==Job fairs== are networking events for job seekers and employers, where the early conversations can help save time as it identifies potential candidates without having to do an interview. 
 	- ==eRecruitment and eSelection== is all about how we use digital tools to source, screen and recruit candidates. 
 - **Screening Candidates**
-	- The process of identifying the best candidate for the job by comparing candidate backgrounds with job competencies. Techniques include application blank or reusme, t
+	- The process of identifying the best candidate for the job by comparing candidate backgrounds with job competencies. Techniques include application blank or resume, test or work sample, screening interview, and reference and background checks. In-basket exercise and psychometric tests are also useful. 
+	- **Interviewing candidates**
+		- Ask questions that are related to the role you are trying to fill, that are similar to each candidate. Avoid questions that are irrelevant to the position and about protected categories.
+		- There are different types of interviews:
+			- ==Group interviews== are where multiple candidates are interviewed at the same time. 
+			- Panel interview is where several people participate in the interview.
+			- ==Behavioural interviews== are when candidates are asked to describe how they handled problems or other situations like that previously. 
+			- ==Hypothetical interviews== ask candidates how they would respond to hypothetical situations. 
+			- ==Patterned interviews== are where the candidate is interviewed about the same topic, but the questions may differ. 
+			- ==Non-directive interviews== are less formal than ==directive interviews==. ==Semi-structured== is the balance between these two. 
+			- ==Stress interviews== are interviews that place candidates in stressful situations. Especially useful for candidates that are applying for high-stress jobs.
+		- Become familiar with the different biases:
+			- Stereotyping is assuming something based on traits beyond our control.
+			- Contrast effect is when every candidate gets compared to a single candidate, and this can go both ways.
+			- Nonverbal
+			- Cultural noise is about saying what feels right instead of what you actually think.
+			- Central tendency is when we grade everything towards the middle of the score and are hesitant to rate too highly or lowly. 
+			- Confirmation is about our expectations.
+			- Halo effect is when we judge based on one trait and let it distracts us from others traits. 
+			- Affinity is about viewing those most similar to us in a better way.
+		- How do we avoid biases?
+			- Assemble a diverse interview panel.
+			- Be aware of laws and regulations
+			- Empower the interview panel and manage expectations and procedures beforehand. Should also be educated and trained beforehand regarding both bias and interviews. 
+			- Have meetings beforehand where you agree upon what kind of candidate you are looking for. 
+			- Standardise the process. 
