@@ -18,7 +18,7 @@
 			- ==Patterned interviews== are where the candidate is interviewed about the same topic, but the questions may differ. 
 			- ==Non-directive interviews== are less formal than ==directive interviews==. ==Semi-structured== is the balance between these two. 
 			- ==Stress interviews== are interviews that place candidates in stressful situations. Especially useful for candidates that are applying for high-stress jobs.
-		- Become familiar with the different biases:
+		- Become familiar with the different biases, separated into ==unconscious and explicit bias:==
 			- ==Stereotyping== is assuming something based on traits beyond our control
 			- ==Affect heuristic== is when we make decisions based on our emotional reactions, often not relevant to the job. 
 			- ==Contrast effect== is when every candidate gets compared to a single candidate, and this can go both ways.
