@@ -19,17 +19,37 @@
 			- ==Non-directive interviews== are less formal than ==directive interviews==. ==Semi-structured== is the balance between these two. 
 			- ==Stress interviews== are interviews that place candidates in stressful situations. Especially useful for candidates that are applying for high-stress jobs.
 		- Become familiar with the different biases:
-			- Stereotyping is assuming something based on traits beyond our control.
-			- Contrast effect is when every candidate gets compared to a single candidate, and this can go both ways.
-			- Nonverbal
-			- Cultural noise is about saying what feels right instead of what you actually think.
-			- Central tendency is when we grade everything towards the middle of the score and are hesitant to rate too highly or lowly. 
-			- Confirmation is about our expectations.
-			- Halo effect is when we judge based on one trait and let it distracts us from others traits. 
-			- Affinity is about viewing those most similar to us in a better way.
+			- ==Stereotyping== is assuming something based on traits beyond our control
+			- ==Affect heuristic== is when we make decisions based on our emotional reactions, often not relevant to the job. 
+			- ==Contrast effect== is when every candidate gets compared to a single candidate, and this can go both ways.
+			- ==Availability heuristic== are when we remember vivid or memorable events as more vivid than they actually are. 
+			- ==Distance bias== is when recruiters favor people and methods they are familiar with when working remotely.
+			- ==Horn effect== is the tendency to form an unfavourable opinion based on a single negative trait
+			- ==Nonverbal==
+			- ==Cultural noise== is about saying what feels right instead of what you actually think.
+			- ==Central tendency== is when we grade everything towards the middle of the score and are hesitant to rate too highly or lowly. 
+			- ==Confirmation== is about our expectations.
+			- ==Halo effect ==is when we judge based on one trait and let it distracts us from others traits. 
+			- ==Affinity ==is about viewing those most similar to us in a better way.
 		- How do we avoid biases?
 			- Assemble a diverse interview panel.
 			- Be aware of laws and regulations
 			- Empower the interview panel and manage expectations and procedures beforehand. Should also be educated and trained beforehand regarding both bias and interviews. 
 			- Have meetings beforehand where you agree upon what kind of candidate you are looking for. 
 			- Standardise the process. 
+	- **Evaluating Prospective Employees**
+		- ==Background and record checks== are common. These include credit checks, criminal background checks and motor vehicle record checks. 
+		- Different test options:
+			- ==Paper/Pencil test== generally test for general aptitude or intelligence, integrity, personality type, language-fluency and job-specific knowledge.
+			- ==Medical tests== can include physical examination and drug tests.
+			- ==Hands-on tests== such as skills test, in-basket exercises, try-out, short-term consulting arrangement and review of previous work samples
+			- Some are allowed to use ==polygraph tests==, such as national security and defense, access to armored car services and working with pharmaceutical products.
+		- Bunch of stuff regarding eligibility to work in the U.S.
+		- Test reliability and test validity:
+			- ==Alternate-forms reliability== uses different measuring instruments and comparing the results. If the results are highly correlated, that indicates that the measuring tool being tested is reliable.
+			- ==Inter-rater reliability== measurements involve having people make judgments of content. This occurs most often in the hiring process in the context of interviews and performance evaluations. The degree to which two such people agree with one another is a measurement of inter-rater reliability.
+			- ==Test-retest reliability== measures how likely it is that a test taker would duplicate his or her performance at some other point in time.
+			- ==Split-half reliability== assesses the consistency of a test. Splits the test to see if the applicants perform equally well on the different parts of the test. 
+			- ==Content validity== requires that a job assessment actually tests skills that are relevant to the job for which the candidate is applying. 
+			- Criterion validity focuses on whether particular test measurements correspond to other specific measurements or particular traits. ==Predictive validity== is a type of criterion validity, if the results of that test correspond with the results from similar criterion sampled at a later point. ==Concurrent validity== is another type of criterion validity, if the outcomes of the test are consistent with the outcomes of other measurements conducted at the same time.
+			- ==Construct validity== determines whether a test measures what it is supposed to measure 
