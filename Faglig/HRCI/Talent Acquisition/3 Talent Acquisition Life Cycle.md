@@ -1,0 +1,10 @@
+- **Talent Sourcing Strategies**
+	- ==Employer branding== is the process of managing and influencing an organisation's reputation among employees, job seekers and ket stakeholders.
+	- ==Employee referrals== is a system or policy that incentivises using employees to recruit applicants. 
+	- ==Job boards== are websites where organisations can post listings for job openings and where job seekers can search for openings.
+	- ==Candidate pipelines== are lists of partially vetted and potentially interested individuals. These individuals usually have various relationships with the organisation, and is especially useful when hiring for difficult roles.
+	- ==Resume mining== is the sorting through of large amounts of human-capital data and extracting relevant information to fill job openings, with the benefit of having control over what is searched for and the results.
+	- ==Job fairs== are networking events for job seekers and employers, where the early conversations can help save time as it identifies potential candidates without having to do an interview. 
+	- ==eRecruitment and eSelection== is all about how we use digital tools to source, screen and recruit candidates. 
+- **Screening Candidates**
+	- The process of identifying the best candidate for the job by comparing candidate backgrounds with job competencies. Techniques include application blank or reusme, t
