@@ -1,0 +1,25 @@
+- **Negotiation process:**
+	- ==Counteroffer==
+		- A candidate's request for a change to an initial offer
+	- ==Reservation price==
+		- The highest possible benefits or salary level that you can offer a candidate
+	- ==Collaborative negotiation==
+		- A negotiation where both sides can walk away with a good feeling – a classic "win-win" negotiation. 
+- **Offer letters should include the following:**
+	- Candidate's personal information
+	- Position, title and start date
+	- Name and position of supervisor
+	- Full-time or part-time schedule 
+	- Job responsibilities
+	- Equity
+	- Compensation and benefits
+	- Policies and culture
+	- Relevant documents
+	- Whether or not the employment i at-will
+- **Employment contracts and common clauses**
+	- Clauses:
+		- ==Nondisclosure clauses==
+		- Noncompete clauses
+		- Non-solicitation clause
+		- Termination clause
+		- Change of control clause
