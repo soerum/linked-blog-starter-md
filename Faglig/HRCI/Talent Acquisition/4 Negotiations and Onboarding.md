@@ -19,7 +19,35 @@
 - **Employment contracts and common clauses**
 	- Clauses:
 		- ==Nondisclosure clauses==
-		- Noncompete clauses
-		- Non-solicitation clause
-		- Termination clause
-		- Change of control clause
+		- ==Noncompete clauses==
+		- ==Non-solicitation clause==
+		- ==Termination clause==
+		- ==Change of control clause==
+	- Usually in contracts:
+		- Length of employment
+		- Common restrictive clauses
+		- Disability or death of employee clauses
+		- Conditions under which an employee may be fired
+		- Non-cash compensation and perks
+- **Onboarding**
+	- ==Orientation== is the process of getting new hires on payroll, signing up for benefits and proving necessary personal information. 
+		- The purpose of an orientation program is to provide recently hired or promoted employees with information that helps them become effective members of the organization. Should be a focus on making people feel welcome, understand that it's OK to have questions, demonstrate commitment towards the new hires.
+		- Common goals:
+			- Prepare new hires.
+			- Promote communication best practices.
+			- Set clear expectations.
+			- Introduce employees to their role and department's objectives. 
+			- Align the employee's goals and complete any remaining paperwork. 
+			- Communicate work place policies.
+			- Tailor delivery.
+			- Gather feedback. 
+			- Explain performance metrics and potential for professional growth. 
+		- Strategies for accomplishing goals:
+			- Build strong relationships.
+			- Meet with relevant members.
+	- ==Onboarding== is the process of welcoming people recruited into the organization and its culture. Can last anywhere from a month to a year.
+		- To assess the inclusivity of your onboarding process, you should collect the following data:
+			- Participant engagement and satisfaction.
+			- Bias or discrimination.
+			- Opportunities and resources to support the new hire. 
+	- ==Employee handbook== should involve a disclaimer that the handbook is not a contract, the organization's vision or mission statement, policies on compensation, promotions and demotions, benefits, holidays and time off, conduct expectations, discipline procedures, organizational chart, workplace safety procedures, privacy policies and policies on proprietary information and non-disclosure agreements. Should be given to all employees upon getting hired and updated regularly. 
