@@ -51,3 +51,22 @@
 			- Bias or discrimination.
 			- Opportunities and resources to support the new hire. 
 	- ==Employee handbook== should involve a disclaimer that the handbook is not a contract, the organization's vision or mission statement, policies on compensation, promotions and demotions, benefits, holidays and time off, conduct expectations, discipline procedures, organizational chart, workplace safety procedures, privacy policies and policies on proprietary information and non-disclosure agreements. Should be given to all employees upon getting hired and updated regularly. 
+- **Employee Retention**
+	- ==Cost per hire== is the amount of money it will cost to hire and train a new employee. The cost related to this is hiring a new person, onboarding a new person, lost productivity, lost engagement, customer service and errors, training cost beyond onboarding and cultural impact. 
+	- Tactics for retaining employees:
+		- ==Stay interviews== are face-to-face interviews with workers about why employees stay with the company
+		- ==Tenure== is granting a permanent job or position to a contracted worker without the need for periodic contract renewals.
+		- ==Coaching== is a method for developing specific skills in which a coach gives information and objective feedback to a person or a group. Can be sourced both internally and externally. 
+		- ==Succession planning== shows commitment to one or more employees. 
+- **Important HR metrics to track**
+	- ==Cost-per-hire==. Ta snittet av kostnadene delt på antall nye ansatte i løpet av en periode.
+	- ==Time-to-fill== is the average numbers of days that a job posting remains open. 
+	- ==Selection ratio== is the number of applicants hired for a position relative to the number of total applicants. 
+	- ==Turnover rate==
+	- ==Human Capital ROI==
+	- ==Absentee rate==
+	- ==Total compensation expense per employee==
+	- ==Health care cost per employee==
+	- ==HR expense factor==
+	- ==Training per employee==
+	- ==Number of grievances==
