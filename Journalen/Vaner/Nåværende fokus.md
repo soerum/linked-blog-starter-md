@@ -9,5 +9,5 @@ Dette skal være en måte for meg å holde oversikt over hvor fokuset mitt skal 
 ###### 3. Fullføre sertifisering i HR
 - Dette tror jeg vil hjelpe meg i forsøket på å skaffe seg jobb, fordi det viser en slags vilje som nok er sjelden blant unge jobbsøkere i det feltet. Det bør gå en blokk til dette om dagen, gjerne den ene som er igjen etter at jeg har gjort skolearbeidet. 
 
-###### 4. Jobbe med å få på plass vaner
+###### 4. Jobbe med å få på plass de nærmest obligatoriske vanene
 - Trening er viktig her. Jeg tror etter to eller tre blokker med deep work er et hensiktsmessig tidspunkt, og nå om dagen innebærer det litt refleksjon for at jeg skal finne ut av hvor lenge jeg skal holde på med baseprogrammet før jeg går videre. På hviledagene går jeg den lange turen over fjellet eller en annen tur.
