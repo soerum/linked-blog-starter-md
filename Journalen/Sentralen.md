@@ -18,6 +18,7 @@ Dette skal være basen hvor jeg forsøker å legge til rette for at jeg etter be
 [[Skriving]]
 [[Å holde det enkelt]]
 [[Begrenset mobilbruk]]
+[[Å danne struktur]]
 
 **Hva jeg skriver om nå om dagen:**
 [[Sex]]
