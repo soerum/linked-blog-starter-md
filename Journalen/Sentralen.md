@@ -9,6 +9,7 @@ Dette skal være basen hvor jeg forsøker å legge til rette for at jeg etter be
 [[Å bite negler]]
 [[Kaffe]]
 [[Hensiktsløs scrolling]]
+[[Gaming]]
 
 **Vaner jeg forsøker å danne og ivareta:**
 [[Trening]]
@@ -19,6 +20,9 @@ Dette skal være basen hvor jeg forsøker å legge til rette for at jeg etter be
 [[Å holde det enkelt]]
 [[Begrenset mobilbruk]]
 [[Å danne en slags struktur]]
+[[Evalueringer]]
+[[Lesing]]
+[[Hvor fokuset mitt bør være]]
 
 **Hva jeg skriver om nå om dagen:**
 [[Sex]]
