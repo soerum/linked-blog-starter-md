@@ -1,0 +1,1 @@
+- Arbeidskapital er lik omløpsmidler minus arbeidskapital.
