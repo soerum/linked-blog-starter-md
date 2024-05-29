@@ -15,5 +15,10 @@
 
 
 
-###### Begrensninger ved følsomhetsanalyse
+###### 3. Begrensninger ved følsomhetsanalyse
 ![[Pasted image 20240529120911.png|500]]
+
+
+###### 4. Simulering
+![[Pasted image 20240529164157.png|500]]
+![[Pasted image 20240529164255.png|500]]
