@@ -33,4 +33,6 @@
  ![[Pasted image 20240529110639.png|500]]  ![[Pasted image 20240529110717.png|500]]
 
 ###### 6. Verdsettelse av aksjer - egenkapitalkostnaden
-![[Pasted image 20240529111202.png|500]]
+![[Pasted image 20240529111631.png|500]]
+	![[Pasted image 20240529111316.png|500]]
+	- Lærer å beregne egenkapitalkostnaden i kapittel syv
