@@ -1,0 +1,1 @@
+- Dette kapittelet er ikke så viktig om man kun har fokus på eksamen. 
