@@ -14,5 +14,10 @@
 - Merk deg at på de som utbetaler samme sum kan du enkelt bruke annuitetsfaktor. 
 
 ###### Tredje oppgave
-![[Pasted image 20240531120136.png|500]]
- 
+![[Pasted image 20240531154524.png|750]]
+![[Pasted image 20240531154928.png|500]]
+- Husk at man må ta hensyn til avskrivninger når man regner kontantstrøm med skatt. 
+![[Pasted image 20240531155635.png|750]]
+![[Pasted image 20240531160021.png|750]]
+- Merk at man bare regner inflasjon til år fem, da det er produksjonstiden.@
+![[Pasted image 20240531160232.png|750]]
