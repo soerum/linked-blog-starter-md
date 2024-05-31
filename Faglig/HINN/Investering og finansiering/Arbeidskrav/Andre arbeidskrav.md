@@ -21,3 +21,14 @@
 ![[Pasted image 20240531160021.png|750]]
 - Merk at man bare regner inflasjon til år fem, da det er produksjonstiden.@
 ![[Pasted image 20240531160232.png|750]]
+![[Pasted image 20240531161148.png|500]]
+- Husk å trekke fra -165  
+- IRR er høyere enn diskonteringsrente, så det er et lønnsomt prosjekt. 
+
+###### Fjerde oppgav
+![[Pasted image 20240531161416.png|750]]![[Pasted image 20240531161722.png|750]]
+![[Pasted image 20240531162100.png|750]]
+- Tror det her er A - B og internrenten er svaret.
+![[Pasted image 20240531162651.png]]
+
+ 
