@@ -13,4 +13,4 @@
 ###### Oppgave tre
 ![[Pasted image 20240531163324.png|500]]
 ![[Pasted image 20240531163427.png|500]]
-4
+![[Pasted image 20240531164753.png|500]]
