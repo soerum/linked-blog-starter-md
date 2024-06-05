@@ -54,4 +54,38 @@
 	![[Pasted image 20240605100825.png]]
 - **Kvartilbredden (IQR)** eller **kvartildifferansen** måler variabiliteten innenfor datasettets mindre kvartiler. For eksempel forskjellen mellom tredje og første kvartil:
 	![[Pasted image 20240605101035.png]]
+	- Mer motstandsdyktig mot ekstremverdier da den beskriver spredningen av dataens midtre halvdel. 
+- **Kvartilavvik** er halvparten av IQR, og gir et annet mål på spredning.
+	![[Pasted image 20240605101341.png]]
+- **Populasjonsvarians** måler hvor mye populasjonsverdiene avviker fra populasjonens gjennomsnitt. 
+	![[Pasted image 20240605101454.png]]
+	- Her er da hele populasjonen inkludert til forskjell fra utvalgsvariansen.
+
+**Samvariasjon**
+- Vi bruker **samvariasjon** til å vurdere i hvilken grad to utvalg trekker i samme retning ved hjelp av utvalgskovariansen.
+- **Kovarians (s eller Cov)** er et mål på graden av felles variasjon mellom to variabler, X og Y. Indikerer om variasjonene i en variabel har en tendens til å følge variasjonene i en annen.
+	![[Pasted image 20240605101903.png]]
+	- Positive verdier indikerer ofte direkte relasjon, mens negative verdier indikerer en invers relasjon. Verdier nær null indikerer liten eller ingen lineær relasjon.
+- **Pearson's korrelasjonskoeffisient** måler styrken og retningen av den lineære relasjonen mellom to variabler. Pearson's korrelasjonskoeffisient, eller Pearson's r, er en en normalisert måling av kovarians som varierer fra -1 til 1.
+	![[Pasted image 20240605102143.png]]
+	- Verdi på 1 indikerer perfekt positiv korrelasjon og -1 perfekt negativ korrelasjon. En verdi på 0 indikerer ingen lineær korrelasjon. 
+
+**Skjevhet og kurtose**
+- **Symmetri i statistikk** referer til egenskapen til en fordeling hvor data er jevnt distribuert rundt dens gjennomsnittsverdi. Hvis fordelingen er perfekt symmetrisk vil gjennomsnitt, median og modus sammenfalle.
+	- Kan enkelt visuelt representeres gjennom et histogram eller klokkekurve. 
+- Vi bruker skjevhet som et mål på symmetri, og tolker det som at x > 0 indikerer lengre hale til høyre, x < 0 indikerer en lengre hale til venstre, og x = 0 antyder en symmetrisk fordeling.
+	![[Pasted image 20240605102638.png]]
+- **Kurtose** er et mål på halens tyngde i en sannsynlighetsfordeling. Den indikerer tilstedeværelse av ekstreme hendelser.
+
+**Visualisering**
+- **Kategoriske variabler** vises ofte best frem ved hjelp av frekvenstabell, kakediagram, søylediagram (en eller flere variabler) eller paretodiagram (sortert søylediagram).
+	![[Pasted image 20240605102903.png]]
+- **Diskrete variabler** visualiseres ofte best ved hjelp av frekvenstabell (inkludert kumulert relativ frekvens), søylediagram/strekdiagram og histogram. 
+	![[Pasted image 20240605103011.png]]
+- **Kontinuerlige variabler** kan vises frem ved å dele opp tallskalaen i passende variabler (rundt 5-15 intervaller) av passende og gjerne lik størrelse. Deretter gjelder de samme som for diskrete variabler, og i tillegg spredningsdiagram og boksplott. 
+- **Histogram** er basert på relative frekvenser, og hver søyle har bredde lik intervallbredden. Totalt areal av alle søyler er lik 1. 
+	- ![[Pasted image 20240605103356.png]]
+- **Boksplott**:
+	- Inneholder minimum og maksimum som representerer laveste og høyeste verdi. Q1 som er medianen av nedrehalvdel og markedet det 25 prosentilet, Q2 som er medianen og markerer det 50. prosentilet, og Q3 som er medianen av øvre halvdel og markerer det 75. prosentilet. Outliers er verdier som faller langt utenfor de andre verdiene. 
+	![[Pasted image 20240605103609.png]]
 	
