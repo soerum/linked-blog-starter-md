@@ -6,4 +6,4 @@
 - 400g tomatsaus 
 - Salt
 - Pepper
-- Basilikum, gjerne 
+- Basilikum, gjerne fersk! 
