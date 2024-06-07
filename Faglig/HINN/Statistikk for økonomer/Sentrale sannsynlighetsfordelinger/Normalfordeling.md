@@ -1,0 +1,2 @@
+- Normalfordeling skiller seg ut fordi den kan ha alle mulige verdier mellom -∞ og +∞, altså ethvert reelt tall. De andre fordelingen har hatt diskrete verdier. En tilfeldig variabel av denne typen er kontinuerlig. 
+- 
