@@ -8,7 +8,10 @@
 
 "Festina lente."
 
-"Not perfe"
+"Not perfect. Your best. Leave the rest to the scoreboard." - Ryan Holiday
+
+"Tolerant with others, strict with yourself." - Marcus Aurelius
+
 
 
 
